@@ -1,5 +1,8 @@
 ## Hi there 👋, you found Wesley!
-![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/wesleyabeck/)
+
+[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wesleyabeck/)
+
+![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwizbeck21)
 
 ![Medium URL](https://img.shields.io/twitter/url?color=white&label=%20&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fwes-beck21.medium.com%2F)
 ### Flatiron Grad | Full Stack Software Developer
