@@ -1,13 +1,12 @@
 ### Hi there 👋, it's Wesley!
 #### Flatiron Grad | Full Stack Software Developer
-Tech and knowing how things work has always been a passion of mine and after pursuing and completing the Flatiron Software Engineering boot camp, I am looking to pursue Full Stack web development as a full-time career. Looking for opportunities to collaborate and make contributions to.
+Technology and knowing how it works has always been a passion of mine and after pursuing and completing the Flatiron Software Engineering boot camp, I am looking to pursue Full Stack web development as a full-time career. Looking for opportunities to collaborate and make contributions to many projects while searching for employment.
 
 Skills: REACT / JS / HTML / CSS / RUBY ON RAILS / RUBY
 
 
 
- - 🔭 I’m currently working on polishing my projects that I built during the boot camp 
- - 🌱 I’m currently learning algorithms. 
+ - 🔭 I’m currently working on polishing and deploying my projects that I created from the boot camp courses for easy interaction. 
  - 👯 I’m looking to collaborate on ANYTHING! 
 
 
@@ -16,3 +15,6 @@ Skills: REACT / JS / HTML / CSS / RUBY ON RAILS / RUBY
 
 
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizbeck21&show_icons=true&theme=tokyonight)
+
+Connect with me:
+![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwizbeck21)
