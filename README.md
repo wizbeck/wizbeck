@@ -12,15 +12,15 @@ Technology and knowing how it works has always been a passion of mine and after 
 #### Projects
 
 ##### Haikyou
-  Demo | Frontend Repo
+  [Demo](https://youtu.be/WtLV_0hBcGI) | [Frontend Repo](https://github.com/wizbeck21/haikyou-client)
 A web app using React and Rails API where users can post their own haiku poems and like other haikus to show their appreciation.
 
 ##### Valheim WorldShare
-  Demo | Frontend Repo
+  [Demo](https://youtu.be/ck2n4_GCJK8) | [Frontend Repo](https://github.com/wizbeck21/valheim-worldshare-frontend)
 A Vanilla JS and Rail API app where users can share worlds from the popular viking survival game known as Valheim and other users can comment on users' world posts.
 
 ##### Top Ten Lister
-  Demo | Repo
+  [Demo](https://youtu.be/Fy_VusrE4yk) | [Repo](https://github.com/wizbeck21/toptenlister)
   A Ruby on Rails web app where users can create categories and post their top 10 recommendations of any catergory they choose to give users insight based on their top ten lists. 
 
 
