@@ -1,17 +1,17 @@
-### Hi there 👋, you found Wesley!
+## Hi there 👋, you found Wesley!
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=blue&label=%20&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesleyabeck%2F)
 ![Medium URL](https://img.shields.io/twitter/url?color=white&label=%20&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fwes-beck21.medium.com%2F)
-#### Flatiron Grad | Full Stack Software Developer
+### Flatiron Grad | Full Stack Software Developer
 Technology and knowing how it works has always been a passion of mine and after pursuing and completing the Flatiron Software Engineering boot camp, I am looking to pursue Full Stack web development as a full-time career. Looking for opportunities to collaborate and make contributions to many projects while searching for employment.
 
   👯 I’m looking to collaborate on ANYTHING! 
 
 
 
-### Skills / Technologies
+## Skills / Technologies
  REACT / JS / HTML / CSS / RUBY ON RAILS / RUBY
 
-### Projects
+## Projects
 I am currently working on polishing and deploying these projects I built during the bootcamp:
 #### Haikyou
   [Demo](https://youtu.be/WtLV_0hBcGI) | [Frontend Repo](https://github.com/wizbeck21/haikyou-client)
