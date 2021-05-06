@@ -18,6 +18,6 @@ Skills: REACT / JS / HTML / CSS / RUBY ON RAILS / RUBY
 
 ##### Connect with me:
 
-![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwizbeck21)
+![Twitter URL](https://img.shields.io/twitter/url?color=white&label=%20%20&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fwizbeck21)
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=blue&label=%20&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesleyabeck%2F)
 ![Medium URL](https://img.shields.io/twitter/url?color=white&label=%20&logo=medium&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fwes-beck21.medium.com%2F)
