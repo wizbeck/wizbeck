@@ -22,8 +22,3 @@ A web app using React and Rails API where users can post their own haiku poems a
 ### Valheim WorldShare
 [Demo](https://youtu.be/ck2n4_GCJK8) | [Frontend Repo](https://github.com/wizbeck21/valheim-worldshare-frontend) <br />
 A frontend web application backed by a Rails API where users can share worlds from the popular viking survival game Valheim, which other users can comment on users' world posts and share their own explorations.
-
-
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizbeck21&show_icons=true&theme=tokyonight)
-
-
